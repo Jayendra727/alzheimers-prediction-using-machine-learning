@@ -60,6 +60,11 @@ Create an ensemble model to improve prediction accuracy
 Evaluate models using precision, recall, F1-score, and ROC-AUC metrics
 Analyze feature importance and develop clinical interpretations
 
+History : 
+Data preprocessing,  Date : 20/06/25
+EDA,  Date : 24/06/25
+Model training and evaluation , Date: 26/06/25
+
 Dependencies
 
 Python 3.9+
